@@ -1,0 +1,14 @@
+{
+  "name": "aijamatto-discord-node",
+  "version": "1.0.0",
+  "description": "generates tomi björck-like quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "binboupan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
